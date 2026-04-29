@@ -1,0 +1,1618 @@
+{
+  "generated_at": "2026-04-26T10:00:00",
+  "range": {
+    "start": "2026-04-27",
+    "end": "2026-05-26"
+  },
+  "count": 60,
+  "cadence": "2_per_day",
+  "distribution": {
+    "pillars": {
+      "tam_ly": 24,
+      "chanh_mang": 18,
+      "quan_he": 12,
+      "tuyen_dung": 6
+    },
+    "personas": {
+      "p1": 24,
+      "p2": 21,
+      "p3": 15
+    },
+    "angles": {
+      "co_che": 21,
+      "nghich_nhan_thuc": 21,
+      "dinh_nghia_lai": 18
+    }
+  },
+  "slots": [
+    {
+      "slot_id": 1,
+      "date": "2026-04-27",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Lời khen không nuôi bạn — nó nuôi cái tôi của bạn",
+      "slug": "loi-khen-nuoi-cai-toi",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Người trưởng thành không phải là người không cần lời khen — là người không còn bị lời khen kích hoạt.",
+      "keywords": [
+        "lời khen",
+        "cái tôi",
+        "trưởng thành"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-27-loi-khen-nuoi-cai-toi.md",
+        "quotes_path": "output/quotes/songtute/2026-04-27-loi-khen-nuoi-cai-toi-quotes.md",
+        "image_path": "output/images/tam_ly-slot001-2026-04-27.png",
+        "top_quote": "Lời khen nuôi cái tôi, không nuôi bạn. Cái tôi càng to thì càng đói.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 2,
+      "date": "2026-04-27",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người giỏi không thất bại vì thiếu năng lực — thất bại vì sai môi trường",
+      "slug": "nguoi-gioi-sai-moi-truong",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Không phải bạn kém — bạn đang giỏi sai chỗ.",
+      "keywords": [
+        "môi trường",
+        "năng lực",
+        "phù hợp"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-27-nguoi-gioi-sai-moi-truong.md",
+        "quotes_path": "output/quotes/songtute/2026-04-27-nguoi-gioi-sai-moi-truong-quotes.md",
+        "image_path": "output/images/chanh_mang-slot002-2026-04-27.png",
+        "top_quote": "Đôi khi môi trường sai không giết chết bạn ngay — nó chỉ làm bạn trở nên tầm thường dần dần, đến mức bạn quên mất mình từng có thể hơn thế.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 3,
+      "date": "2026-04-28",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao người nghe giỏi được tin tưởng hơn người nói giỏi",
+      "slug": "nguoi-nghe-gioi-hon-nguoi-noi",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "co_che",
+      "hook": "Cơ chế của sự tin tưởng không bắt đầu từ lời nói — bắt đầu từ sự im lặng biết lúc nào.",
+      "keywords": [
+        "lắng nghe",
+        "tin tưởng",
+        "mối quan hệ"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-28-nguoi-nghe-gioi-hon-nguoi-noi.md",
+        "quotes_path": "output/quotes/songtute/2026-04-28-nguoi-nghe-gioi-hon-nguoi-noi-quotes.md",
+        "image_path": "output/images/quan_he-slot003-2026-04-28.png",
+        "top_quote": "Sự tin tưởng trong tổ chức không được xây bằng bài phát biểu truyền cảm hứng. Nó được xây bằng hàng ngàn khoảnh khắc nhỏ mà trong đó người ta cảm thấy: nói thật ở đây là an toàn.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 4,
+      "date": "2026-04-28",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Bạn không kiên nhẫn vì bạn bình tâm — bạn chịu đựng vì bạn chưa dám thay đổi",
+      "slug": "kien-nhan-chua-dam-thay-doi",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Kiên nhẫn giả mạo và kiên nhẫn thật trông giống nhau từ bên ngoài — nhưng một cái đến từ sức mạnh, một cái đến từ sợ hãi.",
+      "keywords": [
+        "kiên nhẫn",
+        "thay đổi",
+        "nội lực"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-28-kien-nhan-chua-dam-thay-doi.md",
+        "quotes_path": "output/quotes/songtute/2026-04-28-kien-nhan-chua-dam-thay-doi-quotes.md",
+        "image_path": "output/images/tam_ly-slot004-2026-04-28.png",
+        "top_quote": "Nội lực thật không phải là khả năng chịu đựng mọi thứ. Nội lực thật là khả năng nhìn thấy sự thật của tình huống và đưa ra lựa chọn từ sự rõ ràng — không phải từ nỗi sợ, không phải từ thói quen, không phải từ áp lực xã hội.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 5,
+      "date": "2026-04-29",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Phù hợp hơn Giỏi: tại sao người trung bình trong đúng môi trường vẫn thắng",
+      "slug": "phu-hop-hon-gioi",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "co_che",
+      "hook": "Cơ chế của sự phù hợp: không phải ai giỏi nhất cũng thắng — người phù hợp nhất mới thắng.",
+      "keywords": [
+        "phù hợp",
+        "môi trường",
+        "chánh mạng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-29-phu-hop-hon-gioi.md",
+        "quotes_path": "output/quotes/songtute/2026-04-29-phu-hop-hon-gioi-quotes.md",
+        "image_path": "output/images/chanh_mang-slot005-2026-04-29.png",
+        "top_quote": "Rất nhiều người kiệt sức không phải vì họ chưa đủ giỏi. Mà vì họ đang cố gắng tỏa sáng trong một ngữ cảnh mà ánh sáng của họ không được thiết kế cho nơi đó.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 6,
+      "date": "2026-04-29",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Bạn không mệt vì làm nhiều — bạn mệt vì phải gồng để giữ hình ảnh",
+      "slug": "met-vi-gong-giu-hinh-anh",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Sự kiệt sức không đến từ khối lượng công việc — đến từ khoảng cách giữa con người bạn thật và con người bạn phải đóng vai.",
+      "keywords": [
+        "gồng",
+        "hình ảnh",
+        "kiệt sức",
+        "cái tôi"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-29-met-vi-gong-giu-hinh-anh.md",
+        "quotes_path": "output/quotes/songtute/2026-04-29-met-vi-gong-giu-hinh-anh-quotes.md",
+        "image_path": "output/images/tam_ly-slot006-2026-04-29.png",
+        "top_quote": "Mệt vì gồng là mệt của sự cô đơn trong đám đông. Bạn ở giữa mọi người nhưng phần thật nhất của bạn không có mặt ở đó.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 7,
+      "date": "2026-04-30",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Ranh giới tử tế không phải là nói không — là nói không mà giữ được quan hệ",
+      "slug": "ranh-gioi-tu-te",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "dinh_nghia_lai",
+      "hook": "Ranh giới tử tế không phải là tường ngăn — là cái cổng có khóa mà bạn biết chìa khóa ở đâu.",
+      "keywords": [
+        "ranh giới",
+        "tử tế",
+        "mối quan hệ"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-30-ranh-gioi-tu-te.md",
+        "quotes_path": "output/quotes/songtute/2026-04-30-ranh-gioi-tu-te-quotes.md",
+        "image_path": "output/images/quan_he-slot007-2026-04-30.png",
+        "top_quote": "Ranh giới tử tế không phải là bức tường ngăn — nó là cái cổng có khóa mà bạn biết chìa khóa ở đâu.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 8,
+      "date": "2026-04-30",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Cơ chế bào mòn: tại sao môi trường độc hại khiến người tốt trở nên xấu",
+      "slug": "moi-truong-doc-hai-bao-mon",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "co_che",
+      "hook": "Môi trường không thay đổi bạn ngay lập tức — nó thay đổi tiêu chuẩn của bạn từng ngày một.",
+      "keywords": [
+        "môi trường độc hại",
+        "bào mòn",
+        "tiêu chuẩn"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-04-30-moi-truong-doc-hai-bao-mon.md",
+        "quotes_path": "output/quotes/songtute/2026-04-30-moi-truong-doc-hai-bao-mon-quotes.md",
+        "image_path": "output/images/chanh_mang-slot008-2026-04-30.png",
+        "top_quote": "Môi trường độc hại không tấn công điểm yếu của bạn trước. Nó tấn công điểm mạnh. Sự trung thực của bạn bị gọi là ngây thơ. Sự quan tâm đến người khác bị gọi là không thực tế. Tiêu chuẩn cao của bạn bị gọi là cầu toàn hay khó tính.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 9,
+      "date": "2026-05-01",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao người hay hơn thua lại kiệt sức hơn người không hơn thua",
+      "slug": "hon-thua-kiet-suc",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Cơ chế của hơn thua: mỗi cuộc so sánh không tiêu hao năng lượng một lần — nó mở ra một tài khoản nợ tâm lý không bao giờ đóng được.",
+      "keywords": [
+        "hơn thua",
+        "kiệt sức",
+        "năng lượng",
+        "cái tôi"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-01-hon-thua-kiet-suc.md",
+        "quotes_path": "output/quotes/songtute/2026-05-01-hon-thua-kiet-suc-quotes.md",
+        "image_path": "output/images/tam_ly-slot009-2026-05-01.png",
+        "top_quote": "Người không hay hơn thua không phải vì họ không có tham vọng. Họ chỉ đã nhận ra rằng thang đó dẫn đến đâu. Và họ dừng leo không phải vì thua cuộc mà vì họ không còn chơi trò chơi đó nữa.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 10,
+      "date": "2026-05-01",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Đồng hành không phải là làm thuê — là chọn cùng nhau đi một hướng",
+      "slug": "dong-hanh-chon-mot-huong",
+      "pillar": "tuyen_dung",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Người đồng hành không bán thời gian — họ chia sẻ hướng đi.",
+      "keywords": [
+        "đồng hành",
+        "đại sứ",
+        "Sống Tử Tế"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-28T20:00:55",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-01-dong-hanh-chon-mot-huong.md",
+        "quotes_path": "output/quotes/songtute/2026-05-01-dong-hanh-chon-mot-huong-quotes.md",
+        "image_path": "output/images/dong_hanh-slot010-2026-05-01.png",
+        "top_quote": "Người thật sự giỏi không chỉ muốn lương cao. Họ muốn biết công việc của mình có ý nghĩa gì. Họ muốn có tiếng nói. Họ muốn học hỏi. Họ muốn cảm giác đang đi về một hướng mà họ tin tưởng cùng với những người họ tôn trọng.",
+        "image_quality_warning": false
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 11,
+      "date": "2026-05-02",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Làm ăn bền không phải là sống lâu — là giữ được người",
+      "slug": "lam-an-ben-giu-duoc-nguoi",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Doanh nghiệp sụp đổ không phải vì hết tiền — vì hết người tin.",
+      "keywords": [
+        "làm ăn bền",
+        "niềm tin",
+        "đội ngũ"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-02-lam-an-ben-giu-duoc-nguoi.md",
+        "quotes_path": "output/quotes/songtute/2026-05-02-lam-an-ben-giu-duoc-nguoi-quotes.md",
+        "image_path": null,
+        "top_quote": "Doanh nghiệp không chết vì cạn vốn. Nó chết vì cạn niềm tin."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 12,
+      "date": "2026-05-02",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Bán sản phẩm tốt không phải là người bán giỏi — là người sống đúng với giá trị sản phẩm",
+      "slug": "ban-su-nhat-quan",
+      "pillar": "tuyen_dung",
+      "persona": 3,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Người mua không mua sản phẩm — họ mua sự nhất quán của người bán.",
+      "keywords": [
+        "đại sứ",
+        "sản phẩm",
+        "nhất quán",
+        "Xanh Sạch Sáng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-02-ban-su-nhat-quan.md",
+        "quotes_path": "output/quotes/songtute/2026-05-02-ban-su-nhat-quan-quotes.md",
+        "image_path": null,
+        "top_quote": "Người mua không mua sản phẩm — họ mua sự nhất quán của người bán."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 13,
+      "date": "2026-05-03",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Cái tôi không phải là kẻ địch — là người bảo vệ đang làm quá sức",
+      "slug": "cai-toi-nguoi-bao-ve",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Cơ chế của cái tôi: nó không sinh ra để hại bạn — nó sinh ra để bảo vệ bạn khỏi nỗi đau mà bạn chưa sẵn sàng đối diện.",
+      "keywords": [
+        "cái tôi",
+        "tự vệ",
+        "nội lực"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-03-cai-toi-nguoi-bao-ve.md",
+        "quotes_path": "output/quotes/songtute/2026-05-03-cai-toi-nguoi-bao-ve-quotes.md",
+        "image_path": null,
+        "top_quote": "Bạn không thể tiêu diệt một người bảo vệ đang cố gắng hết sức. Bạn chỉ có thể giúp họ hiểu rằng mối nguy đã thay đổi."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 14,
+      "date": "2026-05-03",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Vợ chồng không cãi nhau vì bất đồng — cãi nhau vì ai cũng muốn thắng",
+      "slug": "vo-chong-cai-nhau-muon-thang",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Vấn đề của hôn nhân không phải là bất đồng — là hai người đang tranh nhau vị trí thẩm phán.",
+      "keywords": [
+        "hôn nhân",
+        "Tam giác đỏ",
+        "cãi nhau"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-03-vo-chong-cai-nhau-muon-thang.md",
+        "quotes_path": "output/quotes/songtute/2026-05-03-vo-chong-cai-nhau-muon-thang-quotes.md",
+        "image_path": null,
+        "top_quote": "Trò chơi 'ai đúng' là trò chơi không ai thắng trong hôn nhân. Vì trong trò chơi đó, mỗi lần một người thắng là một lần mối quan hệ thua."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 15,
+      "date": "2026-05-04",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Trưởng thành không phải là không còn tổn thương — là không để tổn thương quyết định hành động",
+      "slug": "truong-thanh-ton-thuong-quyet-dinh",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Người trưởng thành vẫn bị tổn thương — họ chỉ không còn để tổn thương ngồi vào ghế lái.",
+      "keywords": [
+        "trưởng thành",
+        "tổn thương",
+        "nội lực"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-04-truong-thanh-ton-thuong-quyet-dinh.md",
+        "quotes_path": "output/quotes/songtute/2026-05-04-truong-thanh-ton-thuong-quyet-dinh-quotes.md",
+        "image_path": null,
+        "top_quote": "Người trưởng thành nhất mà bạn từng gặp — họ vẫn bị tổn thương. Điểm khác biệt là họ không để những thứ đó lên xe và cầm vô lăng."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 16,
+      "date": "2026-05-04",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Bạn không bị nhốt trong công việc — bạn đang tự giam mình vì sợ tự do",
+      "slug": "bi-nhot-vi-so-tu-do",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Môi trường không giữ bạn — nỗi sợ của bạn đang dùng môi trường làm cái cớ.",
+      "keywords": [
+        "tự do",
+        "sợ hãi",
+        "chánh mạng",
+        "môi trường"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-04-bi-nhot-vi-so-tu-do.md",
+        "quotes_path": "output/quotes/songtute/2026-05-04-bi-nhot-vi-so-tu-do-quotes.md",
+        "image_path": null,
+        "top_quote": "Tự do đáng sợ hơn giam cầm — nếu bạn chưa sẵn sàng chịu trách nhiệm cho nó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 17,
+      "date": "2026-05-05",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Cơ chế của Tam giác đỏ: tại sao tình yêu biến thành kiểm soát",
+      "slug": "tam-giac-do-tinh-yeu-kiem-soat",
+      "pillar": "quan_he",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Tham – Sân – Si không phá hỏng hôn nhân bằng một cú đấm lớn — chúng bào mòn nó bằng ngàn vết xước nhỏ.",
+      "keywords": [
+        "Tam giác đỏ",
+        "hôn nhân",
+        "kiểm soát",
+        "tình yêu"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-05-tam-giac-do-tinh-yeu-kiem-soat.md",
+        "quotes_path": "output/quotes/songtute/2026-05-05-tam-giac-do-tinh-yeu-kiem-soat-quotes.md",
+        "image_path": null,
+        "top_quote": "Tham – Sân – Si không phá hỏng hôn nhân bằng một cú đấm lớn. Chúng bào mòn nó bằng ngàn vết xước nhỏ — mỗi ngày một ít, đến mức không ai nhận ra cho đến khi khoảng cách đã quá lớn để bắc cầu qua."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 18,
+      "date": "2026-05-05",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người tự nhận mình không tự tin thường tự tin hơn người hay nói mình rất tự tin",
+      "slug": "tu-nhan-khong-tu-tin-that-ra-tu-tin",
+      "pillar": "tam_ly",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Tự tin thật không cần được tuyên bố — nó chỉ cần được sống.",
+      "keywords": [
+        "tự tin",
+        "cái tôi",
+        "nội lực"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-05-tu-nhan-khong-tu-tin-that-ra-tu-tin.md",
+        "quotes_path": "output/quotes/songtute/2026-05-05-tu-nhan-khong-tu-tin-that-ra-tu-tin-quotes.md",
+        "image_path": null,
+        "top_quote": "Tự tin thật được xây trên nền của sự tự biết, không phải tự đánh giá cao."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 19,
+      "date": "2026-05-06",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao lãnh đạo giỏi không phải là người ra lệnh giỏi — là người tạo đất để người khác lớn",
+      "slug": "lanh-dao-tao-dat-cho-nguoi-khac",
+      "pillar": "chanh_mang",
+      "persona": 3,
+      "angle": "co_che",
+      "hook": "Cơ chế của lãnh đạo bền vững: không phải ai to hơn thì lãnh đạo tốt hơn — ai tạo không gian cho người khác lớn mới thật sự là người dẫn đường.",
+      "keywords": [
+        "lãnh đạo",
+        "đội ngũ",
+        "trao quyền"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-06-lanh-dao-tao-dat-cho-nguoi-khac.md",
+        "quotes_path": "output/quotes/songtute/2026-05-06-lanh-dao-tao-dat-cho-nguoi-khac-quotes.md",
+        "image_path": null,
+        "top_quote": "Người lãnh đạo giỏi thực sự không để lại những quyết định đúng nhất. Họ để lại những con người có khả năng đưa ra quyết định đúng ngay cả khi vắng mặt họ."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 20,
+      "date": "2026-05-06",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người nói 'tôi không có thời gian' không thiếu thời gian — đang né tránh điều gì đó",
+      "slug": "khong-co-thoi-gian-ne-tranh",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Thời gian không phải thứ bị lấy đi — nó là thứ bạn đang chủ động không dùng để làm điều quan trọng.",
+      "keywords": [
+        "thời gian",
+        "né tránh",
+        "ưu tiên"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-06-khong-co-thoi-gian-ne-tranh.md",
+        "quotes_path": "output/quotes/songtute/2026-05-06-khong-co-thoi-gian-ne-tranh-quotes.md",
+        "image_path": null,
+        "top_quote": "Câu nói đúng hơn, trung thực hơn, sẽ là: 'Điều này chưa đủ quan trọng với tôi để tôi ưu tiên nó.' Hoặc: 'Tôi đang tránh bắt đầu điều này vì một lý do tôi chưa nhìn thẳng vào."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 21,
+      "date": "2026-05-07",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Ảo tưởng về lời khen: tại sao được khen lại nguy hiểm hơn bị chê",
+      "slug": "ao-tuong-loi-khen-nguy-hiem",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Lời khen không xây dựng bạn — nó xây dựng hình ảnh của bạn. Và hình ảnh đó sẽ bắt bạn làm nô lệ cho nó.",
+      "keywords": [
+        "lời khen",
+        "ảo tưởng",
+        "cái tôi",
+        "phúc khí"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-07-ao-tuong-loi-khen-nguy-hiem.md",
+        "quotes_path": "output/quotes/songtute/2026-05-07-ao-tuong-loi-khen-nguy-hiem-quotes.md",
+        "image_path": null,
+        "top_quote": "Lời khen không xây dựng bạn — nó xây dựng hình ảnh của bạn. Và hình ảnh đó sẽ bắt bạn làm nô lệ cho nó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 22,
+      "date": "2026-05-07",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Tại sao nhân viên giỏi bỏ đi không phải vì lương thấp — vì cảm giác bị xem thường",
+      "slug": "nhan-vien-gioi-bo-di-bi-xem-thuong",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "co_che",
+      "hook": "Cơ chế của sự ra đi: không ai rời bỏ vì lương — họ rời bỏ vì ngày nào đó họ nhận ra mình vô hình trong mắt người họ làm việc cùng.",
+      "keywords": [
+        "nhân viên",
+        "tin tưởng",
+        "quản trị"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-07-nhan-vien-gioi-bo-di-bi-xem-thuong.md",
+        "quotes_path": "output/quotes/songtute/2026-05-07-nhan-vien-gioi-bo-di-bi-xem-thuong-quotes.md",
+        "image_path": null,
+        "top_quote": "Họ không rời vì tiền — họ rời vì ngày nào đó họ nhận ra mình vô hình trong mắt người họ làm việc cùng."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 23,
+      "date": "2026-05-08",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Sống hai mặt trong công việc: khi bên ngoài gật đầu mà bên trong đang la hét",
+      "slug": "song-hai-mat-cong-viec",
+      "pillar": "chanh_mang",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Sự không nhất quán không phải là dối trá — nó là dấu hiệu của môi trường đang ép bạn thu mình lại.",
+      "keywords": [
+        "sống hai mặt",
+        "nhất quán",
+        "chánh mạng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-08-song-hai-mat-cong-viec.md",
+        "quotes_path": "output/quotes/songtute/2026-05-08-song-hai-mat-cong-viec-quotes.md",
+        "image_path": null,
+        "top_quote": "Vấn đề không phải là bạn yếu. Vấn đề là môi trường đang đòi hỏi bạn phải nhỏ đi để tồn tại trong đó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 24,
+      "date": "2026-05-08",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Đại sứ thương hiệu không phải là người bán hàng — là người tin vào điều họ chia sẻ",
+      "slug": "dai-su-tin-vao-dieu-chia-se",
+      "pillar": "tuyen_dung",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Người bán giỏi nhất không bán — họ sống đúng với thứ họ tin, và người khác tự muốn theo.",
+      "keywords": [
+        "đại sứ",
+        "niềm tin",
+        "Xanh Sạch Sáng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-08-dai-su-tin-vao-dieu-chia-se.md",
+        "quotes_path": "output/quotes/songtute/2026-05-08-dai-su-tin-vao-dieu-chia-se-quotes.md",
+        "image_path": null,
+        "top_quote": "Người bán giỏi nhất không bán — họ sống đúng với thứ họ tin, và người khác tự muốn theo."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 25,
+      "date": "2026-05-09",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Cơ chế của sự cô độc trong lãnh đạo: tại sao càng lên cao càng khó nói thật",
+      "slug": "co-doc-lanh-dao-kho-noi-that",
+      "pillar": "tam_ly",
+      "persona": 3,
+      "angle": "co_che",
+      "hook": "Cô độc của người lãnh đạo không đến từ việc không có người xung quanh — đến từ việc không thể nói thật với ai trong số đó.",
+      "keywords": [
+        "lãnh đạo",
+        "cô độc",
+        "tin tưởng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-09-co-doc-lanh-dao-kho-noi-that.md",
+        "quotes_path": "output/quotes/songtute/2026-05-09-co-doc-lanh-dao-kho-noi-that-quotes.md",
+        "image_path": null,
+        "top_quote": "Cô độc của người lãnh đạo không đến từ việc không có người xung quanh — đến từ việc không thể nói thật với ai trong số đó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 26,
+      "date": "2026-05-09",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Không phải ai chăm chỉ cũng thành công — người chăm chỉ trong hệ thống sai chỉ phục vụ hệ thống đó",
+      "slug": "cham-chi-trong-he-thong-sai",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Chăm chỉ không phải đức hạnh — là công cụ. Câu hỏi là bạn đang dùng nó để xây dựng gì, cho ai.",
+      "keywords": [
+        "chăm chỉ",
+        "hệ thống",
+        "chánh mạng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-09-cham-chi-trong-he-thong-sai.md",
+        "quotes_path": "output/quotes/songtute/2026-05-09-cham-chi-trong-he-thong-sai-quotes.md",
+        "image_path": null,
+        "top_quote": "Chăm chỉ không phải đức hạnh — là công cụ. Câu hỏi là bạn đang dùng nó để xây dựng gì, cho ai."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 27,
+      "date": "2026-05-10",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Lắng nghe không phải là im lặng — là đặt câu hỏi đúng",
+      "slug": "lang-nghe-dat-cau-hoi-dung",
+      "pillar": "quan_he",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Người lắng nghe giỏi không phải người ít nói nhất — là người biết câu hỏi nào mở được cánh cửa mà người kia đang muốn mở.",
+      "keywords": [
+        "lắng nghe",
+        "mối quan hệ",
+        "kỹ năng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-10-lang-nghe-dat-cau-hoi-dung.md",
+        "quotes_path": "output/quotes/songtute/2026-05-10-lang-nghe-dat-cau-hoi-dung-quotes.md",
+        "image_path": null,
+        "top_quote": "Người lắng nghe giỏi không phải người ít nói nhất — là người biết câu hỏi nào mở được cánh cửa mà người kia đang muốn mở."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 28,
+      "date": "2026-05-10",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Sốt ruột không phải là động lực — là dấu hiệu của nội lực chưa đủ vững",
+      "slug": "sot-ruot-khong-phai-dong-luc",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Người sốt ruột không bị thiếu động lực — họ đang chạy trốn khỏi cảm giác không chịu nổi khi chưa thấy kết quả.",
+      "keywords": [
+        "sốt ruột",
+        "nội lực",
+        "kiên nhẫn"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-10-sot-ruot-khong-phai-dong-luc.md",
+        "quotes_path": "output/quotes/songtute/2026-05-10-sot-ruot-khong-phai-dong-luc-quotes.md",
+        "image_path": null,
+        "top_quote": "Động lực đẩy bạn về phía trước. Sốt ruột đẩy bạn ra khỏi chỗ bạn đang đứng. Đó là sự khác biệt không nhỏ."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 29,
+      "date": "2026-05-11",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao môi trường độc hại không bắt đầu từ sếp tệ — bắt đầu từ hệ thống khen thưởng sai",
+      "slug": "moi-truong-doc-hai-he-thong-khen",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "co_che",
+      "hook": "Cơ chế của môi trường độc hại: không ai cố ý tạo ra nó — nó lớn lên từ những tiêu chí khen thưởng bình thường hóa hành vi sai.",
+      "keywords": [
+        "môi trường",
+        "hệ thống",
+        "khen thưởng",
+        "độc hại"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-11-moi-truong-doc-hai-he-thong-khen.md",
+        "quotes_path": "output/quotes/songtute/2026-05-11-moi-truong-doc-hai-he-thong-khen-quotes.md",
+        "image_path": null,
+        "top_quote": "Không ai cần phải nói những điều này ra thành lời. Tổ chức nói bằng hành động, và hành động được lặp đi lặp lại đủ nhiều lần trở thành văn hóa."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 30,
+      "date": "2026-05-11",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người điềm tĩnh không phải người không tức giận — là người tức giận mà không bị tức giận lái",
+      "slug": "diem-tinh-tuc-gian-ma-khong-bi-lai",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Bình tĩnh không phải là không có cảm xúc — là có cảm xúc mà không mất phương hướng.",
+      "keywords": [
+        "điềm tĩnh",
+        "tức giận",
+        "nội lực",
+        "tĩnh thức"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-11-diem-tinh-tuc-gian-ma-khong-bi-lai.md",
+        "quotes_path": "output/quotes/songtute/2026-05-11-diem-tinh-tuc-gian-ma-khong-bi-lai-quotes.md",
+        "image_path": null,
+        "top_quote": "Bình tĩnh không phải là không có cảm xúc — là có cảm xúc mà không mất phương hướng."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 31,
+      "date": "2026-05-12",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao công ty gia đình thường gặp khó ở thế hệ thứ hai: cơ chế của niềm tin mù quáng",
+      "slug": "cong-ty-gia-dinh-the-he-thu-hai",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "co_che",
+      "hook": "Cơ chế sụp đổ của doanh nghiệp gia đình: không phải vì thiếu năng lực — vì tin tưởng thay thế cho năng lực trong quá lâu.",
+      "keywords": [
+        "công ty gia đình",
+        "niềm tin",
+        "kế thừa"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-12-cong-ty-gia-dinh-the-he-thu-hai.md",
+        "quotes_path": "output/quotes/songtute/2026-05-12-cong-ty-gia-dinh-the-he-thu-hai-quotes.md",
+        "image_path": null,
+        "top_quote": "Uy tín không kế thừa được. Mối quan hệ không kế thừa được. Và quan trọng hơn — trực giác kinh doanh được mài giũa qua hàng chục năm va chạm thực tế không kế thừa được qua một buổi bàn giao giấy tờ."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 32,
+      "date": "2026-05-12",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Bạn không cần bứt phá — bạn cần ngừng chạy trốn khỏi cảm giác đi chậm",
+      "slug": "but-pha-chay-tron-di-cham",
+      "pillar": "tam_ly",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Cảm giác cần 'bứt phá' không phải là tín hiệu của tham vọng — là tín hiệu của sự không chịu đựng nổi bản thân mình ở hiện tại.",
+      "keywords": [
+        "bứt phá",
+        "nội lực",
+        "đường tắt",
+        "sốt ruột"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-12-but-pha-chay-tron-di-cham.md",
+        "quotes_path": "output/quotes/songtute/2026-05-12-but-pha-chay-tron-di-cham-quotes.md",
+        "image_path": null,
+        "top_quote": "Cảm giác 'phải bứt phá ngay' — nó nóng hơn, vội hơn, nó có chút hoảng loạn trong đó. Nó không phải là la bàn chỉ hướng đi — nó là còi báo động rằng bạn đang không thoải mái với bản thân mình lúc này."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 33,
+      "date": "2026-05-13",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tĩnh thức không phải là ngồi thiền — là biết mình đang ở đâu trong từng khoảnh khắc",
+      "slug": "tinh-thuc-khong-phai-ngoi-thien",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Tĩnh thức không có địa chỉ — nó không sống trong phòng thiền, nó sống trong từng phản ứng của bạn.",
+      "keywords": [
+        "tĩnh thức",
+        "hiện tại",
+        "nội lực"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-13-tinh-thuc-khong-phai-ngoi-thien.md",
+        "quotes_path": "output/quotes/songtute/2026-05-13-tinh-thuc-khong-phai-ngoi-thien-quotes.md",
+        "image_path": null,
+        "top_quote": "Tĩnh thức là khả năng biết mình đang ở đâu — ngay trong lúc mọi thứ đang xảy ra."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 34,
+      "date": "2026-05-13",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Lãnh đạo không phải là người có câu trả lời — là người đặt đúng câu hỏi",
+      "slug": "lanh-dao-dat-dung-cau-hoi",
+      "pillar": "chanh_mang",
+      "persona": 3,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Lãnh đạo không thất bại vì không có đáp án — thất bại vì cứ phải tỏ ra có đáp án.",
+      "keywords": [
+        "lãnh đạo",
+        "câu hỏi",
+        "dũng cảm"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-13-lanh-dao-dat-dung-cau-hoi.md",
+        "quotes_path": "output/quotes/songtute/2026-05-13-lanh-dao-dat-dung-cau-hoi-quotes.md",
+        "image_path": null,
+        "top_quote": "Người lãnh đạo tốt nhất tôi từng gặp không phải là người thông minh nhất trong phòng. Họ là người khiến mọi người trong phòng đều trở nên thông minh hơn khi ở gần họ."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 35,
+      "date": "2026-05-14",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Cơ chế kiểm soát trong hôn nhân: tại sao tình yêu biến thành giam cầm",
+      "slug": "hon-nhan-tinh-yeu-giam-cam",
+      "pillar": "quan_he",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Không ai vào hôn nhân với ý định kiểm soát — nhưng Sân và Tham không cần ý định để vận hành.",
+      "keywords": [
+        "hôn nhân",
+        "kiểm soát",
+        "Tam giác đỏ",
+        "Sân"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-14-hon-nhan-tinh-yeu-giam-cam.md",
+        "quotes_path": "output/quotes/songtute/2026-05-14-hon-nhan-tinh-yeu-giam-cam-quotes.md",
+        "image_path": null,
+        "top_quote": "Cảm giác bị giam cầm không đến từ song sắt. Nó đến từ cái giá phải trả khi là chính mình: sự im lặng nặng nề, cái nhìn đánh giá, cuộc trò chuyện khó chịu kéo dài cả tối."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 36,
+      "date": "2026-05-14",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người nói muốn tự do tài chính thực ra đang chạy trốn khỏi điều họ ghét, không chạy tới điều họ muốn",
+      "slug": "tu-do-tai-chinh-chay-tron",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Tự do tài chính không phải đích đến — là cách đặt câu hỏi cho bạn biết mình thật sự muốn gì.",
+      "keywords": [
+        "tự do tài chính",
+        "động lực",
+        "chánh mạng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-14-tu-do-tai-chinh-chay-tron.md",
+        "quotes_path": "output/quotes/songtute/2026-05-14-tu-do-tai-chinh-chay-tron-quotes.md",
+        "image_path": null,
+        "top_quote": "Tự do tài chính không phải đích đến. Nó là một công cụ. Và câu hỏi quan trọng hơn là: tự do đó để làm gì?"
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 37,
+      "date": "2026-05-15",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Phúc khí không phải là may mắn — là tổng hợp của những thứ bạn không làm mà người khác vẫn làm",
+      "slug": "phuc-khi-khong-phai-may-man",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Cơ chế của phúc khí: không phải trời ban — là kết quả của ngàn quyết định nhỏ không làm điều xấu khi không ai nhìn.",
+      "keywords": [
+        "phúc khí",
+        "đạo đức",
+        "nhất quán"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-15-phuc-khi-khong-phai-may-man.md",
+        "quotes_path": "output/quotes/songtute/2026-05-15-phuc-khi-khong-phai-may-man-quotes.md",
+        "image_path": null,
+        "top_quote": "Phúc khí không đòi hỏi bạn làm điều vĩ đại. Nó đòi hỏi bạn làm điều nhỏ, đúng, nhiều lần, dù không ai thấy."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 38,
+      "date": "2026-05-15",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Sản phẩm Xanh – Sạch – Sáng: tại sao chọn đúng thứ để bán là chọn đúng con người mình là",
+      "slug": "xanh-sach-sang-chon-dung-thu-ban",
+      "pillar": "tuyen_dung",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Sản phẩm bạn bán không chỉ nuôi bạn — nó định hình bạn là ai với người xung quanh.",
+      "keywords": [
+        "Xanh Sạch Sáng",
+        "đại sứ",
+        "giá trị"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-15-xanh-sach-sang-chon-dung-thu-ban.md",
+        "quotes_path": "output/quotes/songtute/2026-05-15-xanh-sach-sang-chon-dung-thu-ban-quotes.md",
+        "image_path": null,
+        "top_quote": "Mỗi lần bạn đứng ra giới thiệu một sản phẩm, bạn đang đặt cược một phần danh tiếng cá nhân của mình vào đó. Không phải danh tiếng kinh doanh — danh tiếng là người."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 39,
+      "date": "2026-05-16",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Chánh mạng không phải là công việc ổn định — là cách kiếm tiền không làm bạn bán linh hồn",
+      "slug": "chanh-mang-khong-ban-linh-hon",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "co_che",
+      "hook": "Cơ chế của chánh mạng: không phải về loại công việc — về sự nhất quán giữa cách bạn kiếm tiền và người bạn muốn trở thành.",
+      "keywords": [
+        "chánh mạng",
+        "linh hồn",
+        "nhất quán",
+        "nghề nghiệp"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-16-chanh-mang-khong-ban-linh-hon.md",
+        "quotes_path": "output/quotes/songtute/2026-05-16-chanh-mang-khong-ban-linh-hon-quotes.md",
+        "image_path": null,
+        "top_quote": "Cơ chế của sự 'bán linh hồn' không nằm ở tấm biển công ty — nó nằm ở khoảng cách giữa những gì bạn làm và những gì bạn thực sự tin là đúng."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 40,
+      "date": "2026-05-16",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Khi bạn đã chán con đường cũ: dấu hiệu bạn đang sẵn sàng cho hệ sinh thái mới",
+      "slug": "chan-con-duong-cu-san-sang-he-sinh-thai",
+      "pillar": "tuyen_dung",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Sự chán nản không phải thất bại — đôi khi đó là tín hiệu rõ ràng nhất rằng bạn đã sẵn sàng.",
+      "keywords": [
+        "đại sứ",
+        "hệ sinh thái",
+        "chuyển hóa"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-16-chan-con-duong-cu-san-sang-he-sinh-thai.md",
+        "quotes_path": "output/quotes/songtute/2026-05-16-chan-con-duong-cu-san-sang-he-sinh-thai-quotes.md",
+        "image_path": null,
+        "top_quote": "Hệ sinh thái mới không phải là nơi mọi thứ dễ dàng hơn. Nó là nơi những khó khăn có ý nghĩa hơn với bạn."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 41,
+      "date": "2026-05-17",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Người càng hay nói không quan tâm đến lời người khác thường là người quan tâm nhất",
+      "slug": "khong-quan-tam-nguoi-khac-nhat",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Người thật sự không quan tâm không cần tuyên bố điều đó.",
+      "keywords": [
+        "cái tôi",
+        "lời khen",
+        "ý kiến người khác"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-17-khong-quan-tam-nguoi-khac-nhat.md",
+        "quotes_path": "output/quotes/songtute/2026-05-17-khong-quan-tam-nguoi-khac-nhat-quotes.md",
+        "image_path": null,
+        "top_quote": "Người thật sự không quan tâm không cần tuyên bố điều đó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 42,
+      "date": "2026-05-17",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Tại sao những người thân nhất lại dễ làm đau nhau nhất: cơ chế của sự quen thuộc",
+      "slug": "nguoi-than-lam-dau-nhau-quen-thuoc",
+      "pillar": "quan_he",
+      "persona": 2,
+      "angle": "co_che",
+      "hook": "Cơ chế của tổn thương trong quan hệ thân thiết: không phải người xa lạ gây ra vết thương sâu nhất — người ta tin tưởng mới có khả năng đó.",
+      "keywords": [
+        "quan hệ",
+        "tổn thương",
+        "thân thiết"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-17-nguoi-than-lam-dau-nhau-quen-thuoc.md",
+        "quotes_path": "output/quotes/songtute/2026-05-17-nguoi-than-lam-dau-nhau-quen-thuoc-quotes.md",
+        "image_path": null,
+        "top_quote": "Không phải người xa lạ gây ra vết thương sâu nhất. Người ta tin tưởng mới có khả năng đó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 43,
+      "date": "2026-05-18",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Hệ sinh thái không phải là mô hình kinh doanh — là cách nhiều người cùng nhau thịnh vượng",
+      "slug": "he-sinh-thai-cung-nhau-thinh-vuong",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Mô hình kinh doanh hỏi: tôi có thể lấy bao nhiêu. Hệ sinh thái hỏi: chúng ta có thể cùng nhau tạo ra gì.",
+      "keywords": [
+        "hệ sinh thái",
+        "thịnh vượng",
+        "cộng đồng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-18-he-sinh-thai-cung-nhau-thinh-vuong.md",
+        "quotes_path": "output/quotes/songtute/2026-05-18-he-sinh-thai-cung-nhau-thinh-vuong-quotes.md",
+        "image_path": null,
+        "top_quote": "Mô hình kinh doanh hỏi: tôi có thể lấy bao nhiêu. Hệ sinh thái hỏi: chúng ta có thể cùng nhau tạo ra gì."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 44,
+      "date": "2026-05-18",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người hay suy nghĩ nhiều không phải thông minh hơn — họ đang né tránh hành động",
+      "slug": "suy-nghi-nhieu-ne-tranh-hanh-dong",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Suy nghĩ nhiều không phải đặc quyền của người thông minh — là cái bẫy của người sợ hành động nhưng muốn cảm giác đang làm gì đó.",
+      "keywords": [
+        "suy nghĩ",
+        "hành động",
+        "né tránh"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-18-suy-nghi-nhieu-ne-tranh-hanh-dong.md",
+        "quotes_path": "output/quotes/songtute/2026-05-18-suy-nghi-nhieu-ne-tranh-hanh-dong-quotes.md",
+        "image_path": null,
+        "top_quote": "Suy nghĩ nhiều không phải đặc quyền của người thông minh. Đó là cái bẫy của người sợ hành động nhưng muốn cảm giác đang làm gì đó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 45,
+      "date": "2026-05-19",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Xây dựng đội ngũ không phải là tìm người giỏi — là tìm người phù hợp với văn hóa",
+      "slug": "xay-dung-doi-ngu-phu-hop-van-hoa",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "dinh_nghia_lai",
+      "hook": "Người giỏi trong môi trường sai còn nguy hiểm hơn người trung bình — vì họ giỏi đủ để kéo cả đội theo hướng sai.",
+      "keywords": [
+        "đội ngũ",
+        "văn hóa",
+        "phù hợp"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-19-xay-dung-doi-ngu-phu-hop-van-hoa.md",
+        "quotes_path": "output/quotes/songtute/2026-05-19-xay-dung-doi-ngu-phu-hop-van-hoa-quotes.md",
+        "image_path": null,
+        "top_quote": "Người giỏi trong môi trường sai còn nguy hiểm hơn người trung bình — vì họ giỏi đủ để kéo cả đội theo hướng sai."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 46,
+      "date": "2026-05-19",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Cơ chế của sự sống hai mặt: tại sao người ta biết sai mà vẫn làm",
+      "slug": "song-hai-mat-biet-sai-van-lam",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Sống hai mặt không bắt đầu từ sự lựa chọn — bắt đầu từ khoảnh khắc bạn quyết định sự an toàn quan trọng hơn sự thật.",
+      "keywords": [
+        "sống hai mặt",
+        "nhất quán",
+        "tự trọng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-19-song-hai-mat-biet-sai-van-lam.md",
+        "quotes_path": "output/quotes/songtute/2026-05-19-song-hai-mat-biet-sai-van-lam-quotes.md",
+        "image_path": null,
+        "top_quote": "Sống hai mặt không bắt đầu từ sự lựa chọn — bắt đầu từ khoảnh khắc bạn quyết định sự an toàn quan trọng hơn sự thật."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 47,
+      "date": "2026-05-20",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Thất bại không phải là điểm dừng — là bản đồ chỉ đường về gốc rễ vấn đề",
+      "slug": "that-bai-ban-do-goc-re",
+      "pillar": "tam_ly",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Thất bại không nói với bạn rằng bạn kém — nó chỉ ra chính xác chỗ nào bạn đang hiểu sai về bản thân và thực tế.",
+      "keywords": [
+        "thất bại",
+        "gốc rễ",
+        "học hỏi"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-20-that-bai-ban-do-goc-re.md",
+        "quotes_path": "output/quotes/songtute/2026-05-20-that-bai-ban-do-goc-re-quotes.md",
+        "image_path": null,
+        "top_quote": "Thất bại không nói với bạn rằng bạn kém — nó chỉ ra chính xác chỗ nào bạn đang hiểu sai về bản thân và thực tế."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 48,
+      "date": "2026-05-20",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Công ty lớn không phải là mục tiêu — là hệ quả của những điều nhỏ làm đúng",
+      "slug": "cong-ty-lon-he-qua-viec-nho",
+      "pillar": "chanh_mang",
+      "persona": 3,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Người muốn có công ty lớn thường không có — vì họ đang xây dựng hình ảnh của sự lớn, không phải nền tảng của nó.",
+      "keywords": [
+        "doanh nghiệp",
+        "nền tảng",
+        "sự nhất quán"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-20-cong-ty-lon-he-qua-viec-nho.md",
+        "quotes_path": "output/quotes/songtute/2026-05-20-cong-ty-lon-he-qua-viec-nho-quotes.md",
+        "image_path": null,
+        "top_quote": "Người muốn có công ty lớn thường không có — vì họ đang xây dựng hình ảnh của sự lớn, không phải nền tảng của nó."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 49,
+      "date": "2026-05-21",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Cơ chế của người hay phàn nàn: tại sao người hay phàn nàn thường không nhận ra họ đang phàn nàn",
+      "slug": "phan-nan-khong-nhan-ra",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Phàn nàn không đến dưới dạng 'tôi phàn nàn' — nó đến dưới dạng phân tích, chia sẻ thực trạng, kể chuyện.",
+      "keywords": [
+        "phàn nàn",
+        "tự nhận thức",
+        "cái tôi"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-21-phan-nan-khong-nhan-ra.md",
+        "quotes_path": "output/quotes/songtute/2026-05-21-phan-nan-khong-nhan-ra-quotes.md",
+        "image_path": null,
+        "top_quote": "Phàn nàn không đến dưới dạng 'tôi phàn nàn' — nó đến dưới dạng phân tích, chia sẻ thực trạng, kể chuyện."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 50,
+      "date": "2026-05-21",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Cô đơn của người lãnh đạo không phải là thiếu người — là thiếu người hiểu mình",
+      "slug": "co-don-lanh-dao-thieu-nguoi-hieu",
+      "pillar": "tam_ly",
+      "persona": 3,
+      "angle": "dinh_nghia_lai",
+      "hook": "Lãnh đạo không cô đơn vì không ai ở bên — cô đơn vì phải giữ khoảng cách để giữ uy quyền, và khoảng cách đó trở thành nhà tù.",
+      "keywords": [
+        "lãnh đạo",
+        "cô đơn",
+        "tin tưởng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-21-co-don-lanh-dao-thieu-nguoi-hieu.md",
+        "quotes_path": "output/quotes/songtute/2026-05-21-co-don-lanh-dao-thieu-nguoi-hieu-quotes.md",
+        "image_path": null,
+        "top_quote": "Lãnh đạo không cô đơn vì không ai ở bên — cô đơn vì phải giữ khoảng cách để giữ uy quyền, và khoảng cách đó trở thành nhà tù."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 51,
+      "date": "2026-05-22",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao mô hình affiliate thường thất bại: cơ chế của động lực sai nguồn",
+      "slug": "affiliate-that-bai-dong-luc-sai",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "co_che",
+      "hook": "Cơ chế của affiliate thất bại: không phải vì sản phẩm tệ hay thị trường khó — vì người bán không tin vào thứ họ bán.",
+      "keywords": [
+        "affiliate",
+        "động lực",
+        "niềm tin",
+        "chánh mạng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-22-affiliate-that-bai-dong-luc-sai.md",
+        "quotes_path": "output/quotes/songtute/2026-05-22-affiliate-that-bai-dong-luc-sai-quotes.md",
+        "image_path": null,
+        "top_quote": "Content viết từ tâm thế 'tôi cần hoa hồng' khác hoàn toàn với content viết từ tâm thế 'tôi thực sự nghĩ người này cần điều này."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 52,
+      "date": "2026-05-22",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người đồng hành không được tìm — được nhận ra: dấu hiệu bạn đã sẵn sàng",
+      "slug": "dong-hanh-duoc-nhan-ra",
+      "pillar": "tuyen_dung",
+      "persona": 3,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Bạn không cần tìm kiếm cộng đồng — khi bạn sống đúng với giá trị, cộng đồng tự tìm đến bạn.",
+      "keywords": [
+        "đồng hành",
+        "Sống Tử Tế",
+        "giá trị"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-22-dong-hanh-duoc-nhan-ra.md",
+        "quotes_path": "output/quotes/songtute/2026-05-22-dong-hanh-duoc-nhan-ra-quotes.md",
+        "image_path": null,
+        "top_quote": "Sự rõ ràng về giá trị là nam châm mạnh nhất tồn tại trong thế giới con người."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 53,
+      "date": "2026-05-23",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Cơ chế của sự không thể xin lỗi: tại sao người ta nói 'tôi không sai' khi họ biết họ sai",
+      "slug": "co-che-khong-xin-loi",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Không xin lỗi không phải vì không biết mình sai — vì xin lỗi đe dọa hình ảnh họ đang phải bảo vệ.",
+      "keywords": [
+        "xin lỗi",
+        "cái tôi",
+        "tự trọng"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-23-co-che-khong-xin-loi.md",
+        "quotes_path": "output/quotes/songtute/2026-05-23-co-che-khong-xin-loi-quotes.md",
+        "image_path": null,
+        "top_quote": "Khả năng xin lỗi thật sự không phải là dấu hiệu của sự yếu đuối. Nó là dấu hiệu của một cái tôi đủ vững để không cần phải hoàn hảo."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 54,
+      "date": "2026-05-23",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Đổi thời gian lấy tiền không phải nghề — là cái bẫy mang danh nghề",
+      "slug": "doi-thoi-gian-lay-tien-cai-bay",
+      "pillar": "chanh_mang",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Nghề không phải là thứ bạn làm để đổi lấy tiền — là thứ bạn làm để trở thành ai đó.",
+      "keywords": [
+        "nghề nghiệp",
+        "chánh mạng",
+        "thời gian",
+        "tự do"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-23-doi-thoi-gian-lay-tien-cai-bay.md",
+        "quotes_path": "output/quotes/songtute/2026-05-23-doi-thoi-gian-lay-tien-cai-bay-quotes.md",
+        "image_path": null,
+        "top_quote": "Khi bạn chọn nghề như một con đường — bạn không hỏi 'nghề này trả bao nhiêu?' mà hỏi 'nghề này đưa tôi trở thành ai?' Hai câu hỏi đó dẫn đến hai cuộc đời hoàn toàn khác nhau."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 55,
+      "date": "2026-05-24",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tại sao văn hóa công ty không thể được tuyên bố — nó phải được sống",
+      "slug": "van-hoa-cong-ty-phai-duoc-song",
+      "pillar": "quan_he",
+      "persona": 3,
+      "angle": "co_che",
+      "hook": "Cơ chế của văn hóa: nó không sinh ra từ những câu slogan trên tường — nó sinh ra từ câu sếp nói khi mọi thứ bắt đầu sai.",
+      "keywords": [
+        "văn hóa",
+        "doanh nghiệp",
+        "nhất quán",
+        "lãnh đạo"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-24-van-hoa-cong-ty-phai-duoc-song.md",
+        "quotes_path": "output/quotes/songtute/2026-05-24-van-hoa-cong-ty-phai-duoc-song-quotes.md",
+        "image_path": null,
+        "top_quote": "Văn hóa không thể được ủy thác cho bộ phận HR. Nó luôn luôn bắt đầu và kết thúc ở người cầm lái — và những câu người đó nói khi không ai chuẩn bị."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 56,
+      "date": "2026-05-24",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Người làm tốt nhất không phải luôn hạnh phúc nhất — và đó chính là cái bẫy",
+      "slug": "nguoi-lam-tot-nhat-cai-bay",
+      "pillar": "tam_ly",
+      "persona": 1,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Năng suất cao không phải là bằng chứng của sự bình an — đôi khi nó là cách tinh vi nhất để chạy trốn khỏi bản thân.",
+      "keywords": [
+        "năng suất",
+        "burnout",
+        "bình an",
+        "kiệt sức"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-24-nguoi-lam-tot-nhat-cai-bay.md",
+        "quotes_path": "output/quotes/songtute/2026-05-24-nguoi-lam-tot-nhat-cai-bay-quotes.md",
+        "image_path": null,
+        "top_quote": "Người làm tốt nhất trong nhóm không phải lúc nào cũng là người khỏe mạnh nhất về tâm lý. Đôi khi họ là người đang chạy nhanh nhất — vì họ không muốn dừng lại và nhìn."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 57,
+      "date": "2026-05-25",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Nội lực không phải là sức mạnh — là khoảng cách giữa kích thích và phản ứng",
+      "slug": "noi-luc-khoang-cach-kich-thich-phan-ung",
+      "pillar": "tam_ly",
+      "persona": 2,
+      "angle": "dinh_nghia_lai",
+      "hook": "Người có nội lực cao không phản ứng chậm — họ có không gian giữa kích thích và phản ứng mà người khác không có.",
+      "keywords": [
+        "nội lực",
+        "phản ứng",
+        "tĩnh thức",
+        "trưởng thành"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-25-noi-luc-khoang-cach-kich-thich-phan-ung.md",
+        "quotes_path": "output/quotes/songtute/2026-05-25-noi-luc-khoang-cach-kich-thich-phan-ung-quotes.md",
+        "image_path": null,
+        "top_quote": "Giữa kích thích và phản ứng, có một khoảng không gian. Trong khoảng không gian đó nằm quyền tự do và sức mạnh của ta."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 58,
+      "date": "2026-05-25",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Chủ doanh nghiệp không thất bại vì thiếu vốn — thất bại vì không hiểu mình",
+      "slug": "chu-dn-that-bai-khong-hieu-minh",
+      "pillar": "chanh_mang",
+      "persona": 3,
+      "angle": "nghich_nhan_thuc",
+      "hook": "Vốn không phải vấn đề cốt lõi — người không hiểu mình, dù có vốn, vẫn đầu tư vào sai người và sai hướng.",
+      "keywords": [
+        "doanh nghiệp",
+        "tự nhận thức",
+        "vốn",
+        "lãnh đạo"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-25-chu-dn-that-bai-khong-hieu-minh.md",
+        "quotes_path": "output/quotes/songtute/2026-05-25-chu-dn-that-bai-khong-hieu-minh-quotes.md",
+        "image_path": null,
+        "top_quote": "Khi bạn có thêm vốn, bạn đang khuếch đại cái gì? Nếu bạn chưa hiểu rõ mình và những điểm mù của mình — thêm vốn thường chỉ khuếch đại vấn đề với tốc độ lớn hơn."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 59,
+      "date": "2026-05-26",
+      "slot_time": "morning",
+      "scheduled_time": "09:00",
+      "topic": "Tha thứ không phải là quên — là không để quá khứ quyết định hiện tại",
+      "slug": "tha-thu-qua-khu-quyet-dinh",
+      "pillar": "quan_he",
+      "persona": 1,
+      "angle": "dinh_nghia_lai",
+      "hook": "Tha thứ không xóa ký ức — nó lấy đi quyền năng của ký ức đó với hiện tại của bạn.",
+      "keywords": [
+        "tha thứ",
+        "quá khứ",
+        "chữa lành",
+        "mối quan hệ"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-26-tha-thu-qua-khu-quyet-dinh.md",
+        "quotes_path": "output/quotes/songtute/2026-05-26-tha-thu-qua-khu-quyet-dinh-quotes.md",
+        "image_path": null,
+        "top_quote": "Tha thứ, theo nghĩa thật sự, là một hành động rất cụ thể: bạn quyết định không để ký ức đó tiếp tục cầm quyền điều hướng cuộc sống hiện tại của bạn."
+      },
+      "errors": []
+    },
+    {
+      "slot_id": 60,
+      "date": "2026-05-26",
+      "slot_time": "evening",
+      "scheduled_time": "20:00",
+      "topic": "Cơ chế của sự thay đổi: tại sao người ta biết phải thay đổi nhưng vẫn không thay đổi",
+      "slug": "co-che-su-thay-doi",
+      "pillar": "chanh_mang",
+      "persona": 1,
+      "angle": "co_che",
+      "hook": "Biết phải thay đổi không đủ — não bộ cần cảm thấy sự thay đổi an toàn hơn sự ở lại trước khi nó cho phép bạn đi.",
+      "keywords": [
+        "thay đổi",
+        "não bộ",
+        "nội lực",
+        "môi trường"
+      ],
+      "status": "produced",
+      "produced_at": "2026-04-26T12:00:00",
+      "artifacts": {
+        "post_path": "output/posts/songtute/2026-05-26-co-che-su-thay-doi.md",
+        "quotes_path": "output/quotes/songtute/2026-05-26-co-che-su-thay-doi-quotes.md",
+        "image_path": null,
+        "top_quote": "Não bộ của bạn, ở tầng sâu hơn mức suy nghĩ có ý thức, chưa tin rằng thay đổi an toàn hơn ở lại. Đây là lý do bạn biết phải thay đổi mà vẫn không thay đổi."
+      },
+      "errors": []
+    }
+  ]
+}
