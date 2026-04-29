@@ -180,16 +180,16 @@ function render(){
   }).join('');
 }
 
-// Schedule: T3 + T7 lúc 19:00, bắt đầu 2026-05-09
+// Schedule: T3 + T7 lúc 12:00, bắt đầu 2026-05-02
 function computeSlot(idx){
-  const start = new Date('2026-05-09T19:00:00+07:00');
+  const start = new Date('2026-05-02T12:00:00+07:00');
   // Days between slots: Sat→Tue=3, Tue→Sat=4 (alternating)
   let d = new Date(start);
   for(let i=0;i<idx;i++){
     d.setDate(d.getDate() + (i%2===0 ? 3 : 4));
   }
   const dow = ['CN','T2','T3','T4','T5','T6','T7'][d.getDay()];
-  return `${dow} ${d.getDate()}/${d.getMonth()+1} 19:00`;
+  return `${dow} ${d.getDate()}/${d.getMonth()+1} 12:00`;
 }
 
 function setStatus(id, s){
@@ -267,7 +267,7 @@ ${JSON.stringify({
 }
 
 function computeSlotISO(idx){
-  const start = new Date('2026-05-09T12:00:00Z');  // 19:00 ICT = 12:00 UTC
+  const start = new Date('2026-05-02T05:00:00Z');  // 12:00 ICT = 05:00 UTC
   let d = new Date(start);
   for(let i=0;i<idx;i++){
     d.setUTCDate(d.getUTCDate() + (i%2===0 ? 3 : 4));
