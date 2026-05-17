@@ -1,0 +1,44 @@
+name: FB Comment Dispatcher
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: fb-comment-dispatcher
+      cancel-in-progress: false
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run dispatcher
+        env:
+          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
+        run: python dispatch.py
+
+      - name: Commit queue if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add queue/.pending_fb_comments.json
+          if git diff --quiet --staged; then
+            echo "No changes to commit."
+          else
+            git commit -m "dispatcher: process queue $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
